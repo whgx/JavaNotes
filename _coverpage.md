@@ -4,6 +4,6 @@
 
 > Java学习笔记，核心知识库
 
-
-[GitHub](https://github.com/whgx/JavaNotes.git)
+[GitHub](https://whgx.github.io/JavaNotes/)
 [开始阅读](README.md)
+
